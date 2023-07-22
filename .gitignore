@@ -1,0 +1,9 @@
+.DS_Store
+
+.vscode
+
+ignore_*
+
+dog.jpg
+gazou.png
+myprofile.html
